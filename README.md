@@ -23,25 +23,27 @@
 
 ### 軟硬體架構圖
 
-![軟硬體架構圖](images/software_hardware_architecture.png)
+![軟硬體架構圖](OM2M_PIC/軟硬體架構圖.png)
 
 ## 實作成果與介紹
 
 ### 硬體架構圖與實作成果
 
-![硬體架構圖](images/hardware_architecture.png)
+![硬體架構圖](OM2M_PIC/硬體架構圖.png)
 
 ### Node-RED Function 實作
 
-![Node-RED Function](images/node_red_function.png)
+![Node-RED Function](OM2M_PIC/nodered實作圖.png)
+![Node-RED Function](OM2M_PIC/nodered實作圖2.png)
 
 ### OM2M 平台 - 傳送與接收實作
 
-![OM2M 傳送與接收](images/om2m_transmission_reception.png)
+![OM2M 傳送與接收](OM2M_PIC/OM2Mplatform.png)
+![OM2M 傳送與接收](OM2M_PIC/OM2Mplatform2.png)
 
 ### 即時監測 GUI & 數值異常時 Email 傳送
 
-![即時監測 GUI](images/real_time_gui.png)
+![即時監測 GUI](OM2M_PIC/GUI.png)
 
 ### 實際操作流程 & 影片
 
