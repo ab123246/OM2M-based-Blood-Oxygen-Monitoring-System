@@ -34,11 +34,13 @@
 ### Node-RED Function 實作
 
 ![Node-RED Function](OM2M_PIC/nodered實作圖.png)
+``
 ![Node-RED Function](OM2M_PIC/nodered實作圖2.png)
 
 ### OM2M 平台 - 傳送與接收實作
 
 ![OM2M 傳送與接收](OM2M_PIC/OM2Mplatform.png)
+
 ![OM2M 傳送與接收](OM2M_PIC/OM2Mplatform2.png)
 
 ### 即時監測 GUI & 數值異常時 Email 傳送
